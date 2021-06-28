@@ -18,5 +18,4 @@ let quizData = require('./quiz_data.json')
    }
 
  }
-
  export default Quiz
